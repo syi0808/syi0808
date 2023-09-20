@@ -1,1 +1,1 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=castle0808)](https://velog.io/@castle0808/1-메타버스-구축기)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=castle0808)](https://velog.io/@castle0808/RSC-use-client-%EA%B5%AC%EB%AC%B8%EC%9D%84-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%9E%85%EB%A0%A5%ED%95%B4%EB%B3%B4%EC%9E%90)
