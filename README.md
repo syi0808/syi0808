@@ -1,1 +1,1 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=castle0808)](https://velog.io/@castle0808/PnP-Required-Package-some-package-Required-by-some-package-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=castle0808)](https://velog.io/@castle0808/Oracle-Cloud%EB%A1%9C-%EC%99%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-Kubernetes-cluster-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
